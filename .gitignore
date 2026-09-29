@@ -1,0 +1,15 @@
+*_dehazed.*
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.mlappinstall
+*.mltbx
+slprj/
+sccprj/
+codegen/
+resources/project/
+*.mat
+.DS_Store
+Thumbs.db
+desktop.ini
